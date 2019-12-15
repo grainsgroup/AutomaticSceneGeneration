@@ -1,0 +1,208 @@
+{
+  "Bed": {
+    "front": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Bench": {
+    "below": "Tree",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Bookcase": {
+    "left": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Bushes": {
+    "back": "Grass",
+    "multiplicity": 2,
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Carpet": {
+    "front": "Bed",
+    "labels": [
+      "Room",
+      "Bedroom",
+      "Living room",
+      "Kitchen"
+    ]
+  },
+  "Chair": {
+    "inside": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Chest of drawers": {
+    "left": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Coffee table": {
+    "inside": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Food": {
+    "top": "Tablecloth",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Lamp": {
+    "top": "Nightstand",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Mirror": {
+    "above": "Chest of drawers",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Nightstand": {
+    "right": "Bed",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Picture frame": {
+    "above": "Room",
+    "multiplicity": 2,
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Picnic basket": {
+    "top": "Picnic table",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Picnic bench": {
+    "right": "Picnic table",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Picnic table": {
+    "inside": "Grass",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Pillow": {
+    "right": "Tablecloth",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Play equipment": {
+    "right": "Grass",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Pond": {
+    "front": "Grass",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Pouf": {
+    "inside": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Street lamp": {
+    "right": "Play equipment",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Tablecloth": {
+    "inside": "Grass",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Tree": {
+    "left": "Grass",
+    "multiplicity": 2,
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  },
+  "Wardrobe": {
+    "right": "Room",
+    "labels": [
+      "Room",
+      "Bedroom"
+    ]
+  },
+  "Waste bin": {
+    "right": "Bench",
+    "labels": [
+      "Grass",
+      "Garden",
+      "Backyard",
+      "Park"
+    ]
+  }
+}
